@@ -1,0 +1,12 @@
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\bin\Debug\ShoppingCart.ClassLibrary.exe.config
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\bin\Debug\ShoppingCart.ClassLibrary.exe
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\bin\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\obj\Debug\ShoppingCart.ClassLibrary.csprojAssemblyReference.cache
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\obj\Debug\ShoppingCart.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\obj\Debug\ShoppingCart.ClassLibrary.exe
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Model\obj\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\bin\Debug\ShoppingCart.ClassLibrary.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\bin\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.csprojResolveAssemblyReference.cache

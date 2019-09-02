@@ -1,0 +1,16 @@
+﻿<ProjectConfiguration>
+  <Settings>
+    <IgnoredTests>
+      <AllTestsSelector />
+      <FixtureTestSelector>
+        <FixtureName>ShoppingCart.BusinessLayer.Tests.ShoppingCartManagerTests1</FixtureName>
+      </FixtureTestSelector>
+      <FixtureTestSelector>
+        <FixtureName>ShoppingCart.BusinessLayer.Tests.DeliveryCostCalculatorTests</FixtureName>
+      </FixtureTestSelector>
+      <FixtureTestSelector>
+        <FixtureName>ShoppingCart.BusinessLayer.Tests.CouponManagerTests</FixtureName>
+      </FixtureTestSelector>
+    </IgnoredTests>
+  </Settings>
+</ProjectConfiguration>

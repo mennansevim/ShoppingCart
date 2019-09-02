@@ -1,0 +1,16 @@
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\nunit.engine.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\nunit.engine.api.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Tests.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.Tests.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.BusinessLayer.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.ClassLibrary.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.BusinessLayer.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\nunit.framework.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Tests\obj\Debug\ShoppingCart.Tests.pdb

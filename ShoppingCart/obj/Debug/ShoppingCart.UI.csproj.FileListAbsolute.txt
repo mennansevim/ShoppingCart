@@ -1,0 +1,10 @@
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.BusinessLayer.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.ClassLibrary.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.BusinessLayer.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.UI.csprojResolveAssemblyReference.cache
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
