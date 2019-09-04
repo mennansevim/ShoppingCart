@@ -49,6 +49,24 @@ namespace ShoppingCart.BusinessLayer
             return GetTotalAmountAfterDiscounts() + deliveryCost;
         }
 
+
+        /// <summary>
+        ///  Reset after remove item
+        ///  Calculate discounts
+        /// </summary>
+        private void ReCalculateDiscounts()
+        {
+            // recalculate discounts
+            foreach (var item in _shoppingCart.CartItems)
+            {
+                item.CampaignDiscount = 0;
+                item.CouponDiscount = 0;
+            }
+
+            _shoppingCart.CampaignDiscount = new CampaignManager(_shoppingCart).ApplyDiscount();
+            _shoppingCart.CouponDiscount = new CouponManager(_shoppingCart).ApplyDiscount();
+        }
+
         #endregion Private Methods
 
         #region Public Methods
@@ -73,6 +91,58 @@ namespace ShoppingCart.BusinessLayer
                 newCartItem.Subtotal += newCartItem.Product.UnitPrice * newCartItem.Quantity;
                 _shoppingCart.CartItems.Add(newCartItem);
             }
+        }
+
+        /// <inheritdoc />
+        /// <summary>
+        /// Removes product item to cart
+        /// </summary>
+        /// <param name="product">used to add item to cart</param>
+        /// <param name="quantity">used to calculate total price</param>
+        public void RemoveItem(Product product)
+        {
+            if (_shoppingCart.CartItems.Any(x => x.Product.Code == product.Code))
+            {
+                var itemToRemove = _shoppingCart.CartItems.First(x => x.Product.Code == product.Code);
+                _shoppingCart.CartItems.Remove(itemToRemove);
+            }
+
+            // reset and calculate discounts
+            ReCalculateDiscounts();
+        }
+
+        public void IncreaseItemQty(Product product)
+        {
+            var itemToUpdate = _shoppingCart.CartItems.FirstOrDefault(x => x.Product.Code == product.Code);
+            if (itemToUpdate != null)
+            {
+                itemToUpdate.Quantity++;
+                itemToUpdate.Subtotal += itemToUpdate.Product.UnitPrice;
+
+            }
+
+            // update discounts
+            ReCalculateDiscounts();
+        }
+
+        public void DecreaseItemQty(Product product)
+        {
+            var itemToUpdate = _shoppingCart.CartItems.FirstOrDefault(x => x.Product.Code == product.Code);
+            if (itemToUpdate != null)
+            {
+                itemToUpdate.Quantity--;
+                itemToUpdate.Subtotal -= itemToUpdate.Product.UnitPrice;
+
+
+                if (itemToUpdate.Quantity < 0)
+                {
+                    itemToUpdate.Quantity = 0;
+                    itemToUpdate.Subtotal = 0;
+                }
+            }
+
+            // update discounts
+            ReCalculateDiscounts();
         }
 
         /// <inheritdoc />
@@ -241,6 +311,7 @@ namespace ShoppingCart.BusinessLayer
             // -- Draw cart summary
             consoleWriter.PrintCartSummary(deliveryCost, CalculateTotalAmount(deliveryCost));
         }
+
 
         #endregion Public Methods
     }

@@ -5,3 +5,13 @@ D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\Shopp
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.csprojResolveAssemblyReference.cache
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.pdb
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\ShoppingCart.BusinessLayer.dll
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\ShoppingCart.BusinessLayer.pdb
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\ShoppingCart.ClassLibrary.dll
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\bin\Debug\ShoppingCart.ClassLibrary.exe.config
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.csprojAssemblyReference.cache
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.csproj.CopyComplete
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.dll
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.BusinessLayer\obj\Debug\ShoppingCart.BusinessLayer.pdb

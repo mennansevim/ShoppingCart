@@ -10,3 +10,9 @@ D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\bin\Debug\Shoppi
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.pdb
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.csprojAssemblyReference.cache
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.dll
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\obj\Debug\ShoppingCart.ClassLibrary.pdb
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\bin\Debug\ShoppingCart.ClassLibrary.dll
+D:\Kişisel\GitRepository\ShoppingCart\ShoppingCart\ShoppingCart.ClassLibrary\bin\Debug\ShoppingCart.ClassLibrary.pdb

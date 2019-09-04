@@ -41,7 +41,7 @@ namespace ShoppingCart.BusinessLayer.Helpers
                 }
             }
         }
-        
+
         #region Private Methods
 
         /// <summary>
@@ -74,7 +74,7 @@ namespace ShoppingCart.BusinessLayer.Helpers
 
             if (_shoppingCart.CouponDiscount > 0)
                 Console.WriteLine("Kupon İndirimi   : " + "-" + _shoppingCart.CouponDiscount + " " + defaultCurrencyUnit);
-            if (_shoppingCart.CouponDiscount > 0)
+            if (_shoppingCart.CampaignDiscount > 0)
                 Console.WriteLine("Kampanya İndirimi: " + "-" + _shoppingCart.CampaignDiscount + " " + defaultCurrencyUnit);
             Console.WriteLine("Kargo Ücreti     : " + deliveryCost + " " + defaultCurrencyUnit);
             Console.WriteLine("Toplam Tutar     : " + totalAmount + " " + defaultCurrencyUnit);

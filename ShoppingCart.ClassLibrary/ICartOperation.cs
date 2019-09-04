@@ -13,6 +13,16 @@
         void AddItem(Product product, int quantity);
 
         /// <summary>
+        /// Removes cart item to shoppingcart
+        /// </summary>
+        /// <param name="product">Used for removing product from cart</param>
+        void RemoveItem(Product product);
+
+        void IncreaseItemQty(Product product);
+
+        void DecreaseItemQty(Product product);
+
+        /// <summary>
         /// Applies discounts after adding discounts
         /// </summary>
         /// <param name="campaigns">campaign array</param>
